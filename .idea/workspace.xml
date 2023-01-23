@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16b0dd00-3806-4d7c-8b1a-29e39af74085" name="Changes" comment="add file4">
-      <change afterPath="$PROJECT_DIR$/HomeWork5/HW1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork5/HW2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork5/HW3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeWork5/HW4.py" afterDir="false" />
+    <list default="true" id="16b0dd00-3806-4d7c-8b1a-29e39af74085" name="Changes" comment="add file5">
+      <change afterPath="$PROJECT_DIR$/HomeWork6/HW1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork6/HW2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork6/HW3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork6/HW4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork6/HW5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,8 +43,8 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Users/Desktop/Python&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.HW4">
-    <configuration name="HW1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.HW5">
+    <configuration name="HW1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +52,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork5/HW1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork6/HW1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +65,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HW2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="HW2 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +73,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork5/HW2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork6/HW2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HW3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="HW3 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +94,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork5/HW3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork6/HW3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -114,11 +115,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork4/HW4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork6/HW4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HW4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="HW5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,11 +136,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork5" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HomeWork6" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork5/HW4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HomeWork6/HW5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.HW4" />
-        <item itemvalue="Python.HW3" />
-        <item itemvalue="Python.HW2" />
-        <item itemvalue="Python.HW1 (1)" />
+        <item itemvalue="Python.HW5" />
         <item itemvalue="Python.HW4 (1)" />
+        <item itemvalue="Python.HW3 (1)" />
+        <item itemvalue="Python.HW2 (1)" />
+        <item itemvalue="Python.HW1" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672982360291</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add file5">
+      <created>1673965810821</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673965810821</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -203,6 +211,7 @@
     <MESSAGE value="add file2" />
     <MESSAGE value="add file3" />
     <MESSAGE value="add file4" />
-    <option name="LAST_COMMIT_MESSAGE" value="add file4" />
+    <MESSAGE value="add file5" />
+    <option name="LAST_COMMIT_MESSAGE" value="add file5" />
   </component>
 </project>
