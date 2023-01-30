@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="16b0dd00-3806-4d7c-8b1a-29e39af74085" name="Changes" comment="add file7">
+    <list default="true" id="16b0dd00-3806-4d7c-8b1a-29e39af74085" name="Changes" comment="add file8">
+      <change afterPath="$PROJECT_DIR$/HomeWork8/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork8/db_operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork8/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HomeWork8/ui.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork 8/controller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork 8/db_operations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork 8/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HomeWork 8/ui.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -219,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674886683375</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="add file8">
+      <created>1675090021515</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675090021515</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -230,6 +245,7 @@
     <MESSAGE value="add file5" />
     <MESSAGE value="add file6" />
     <MESSAGE value="add file7" />
-    <option name="LAST_COMMIT_MESSAGE" value="add file7" />
+    <MESSAGE value="add file8" />
+    <option name="LAST_COMMIT_MESSAGE" value="add file8" />
   </component>
 </project>
